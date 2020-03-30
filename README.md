@@ -23,46 +23,46 @@ Security analysts across teams can contribute to UCL in order to add/delete/modi
 ## Detailed Steps
 
 * ### Create Github Account
-    1.  Go to [Github](https://github.com).
-    2.  Click on Sign Up.
-    3.  Enter all the details.
+    1. Go to [Github](https://github.com).
+    2. Click on Sign Up.
+    3. Enter all the details.
 
     ![Step 1_1](assests/step_1_1.png)​
     
-    4.  You are good to go now. Let’s contribute now.
+    4. You are good to go now. Let’s contribute now.
 
 
 * ### Fork the Repository
-    1.  You will receive an email invite to join the organization. Join the organisation.
+    1. You will receive an email invite to join the organization. Join the organisation.
 
     ![Step 2_1](assests/step_2_1.png)​ 
 
-    2.  Go to the organisation’s repository.
-    3.  Click on ​**Fork**​ and select your username.
+    2. Go to the organisation’s repository.
+    3. Click on ​**Fork**​ and select your username.
 
     ![Step 2_2](assests/step_2_2.png)
 
-    4.  You can see the forked repository in your profile.
+    4. You can see the forked repository in your profile.
 
     ![Step 2_3](assests/step_2_3.png)
 
 
 * ### Adding a New Control
-    1.  Click on ​**Create new file**​ .
+    1. Click on ​**Create new file**​ .
 
     ![Step 3_1](assests/step_3_1.png)
 
-    2.  Use **/** to create directories and subdirectories and create a **main**(.md) file to add control details. e.g *Vulnerability-Class/Vulnerability-Name/main.md*. You can also create a new file at specific folder inside the path *Vulnerability-Class Vulnerability-Name/* for existing vulnerabilities.
+    2. Use **/** to create directories and subdirectories and create a **main**(.md) file to add control details. e.g *Vulnerability-Class/Vulnerability-Name/main.md*. You can also create a new file at specific folder inside the path *Vulnerability-Class Vulnerability-Name/* for existing vulnerabilities.
 
     ![Step 3_2](assests/step_3_2.png)
 
-    3.  Write the details of new controls.
-    4.  Commit the changes.
+    3. Write the details of new controls.
+    4. Commit the changes.
 
      ![Step 3_3](assests/step_3_3.png)
 
-     
-        
+
+
 
 ## Reviewer Authority
 For pull request in each practice, three reviewers are required. Out of these three reviewers, the mandatory two are mentioned below and the third one is optional.
