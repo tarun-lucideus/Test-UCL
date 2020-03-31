@@ -20,6 +20,12 @@ Each and every vulnerability (test cases) in UCL contains the following:
 
 Security analysts across teams can contribute to UCL in order to add/delete/modify the security controls. To know more, refer to the [UCL process document](Process.pdf)
 
+## Reviewer Authority
+For pull request in each practice, three reviewers are required. Out of these three reviewers, the mandatory two are mentioned below and the third one is optional.
+* **iOS** - Sahil Pahwa & Vibhav Dudeja
+* **Android** - Silky Choudhary & Rubal Jain
+* **Traffic Analysis/Web** - Deepak Pawar & Rishu Ranjan
+
 ## Detailed Steps
 
 ### Create Github Account
@@ -123,8 +129,3 @@ Security analysts across teams can contribute to UCL in order to add/delete/modi
 
 
 
-## Reviewer Authority
-For pull request in each practice, three reviewers are required. Out of these three reviewers, the mandatory two are mentioned below and the third one is optional.
-* **iOS** - Sahil Pahwa & Vibhav Dudeja
-* **Android** - Silky Choudhary & Rubal Jain
-* **Traffic Analysis/Web** - Deepak Pawar & Rishu Ranjan
