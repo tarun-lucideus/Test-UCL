@@ -23,13 +23,13 @@ Security analysts across teams can contribute to UCL in order to add/delete/modi
 ## Detailed Steps
 
 * ### Create Github Account
-    1. Go to [Github](https://github.com).
-    2. Click on Sign Up.
-    3. Enter all the details.
+  1. Go to [Github](https://github.com).
+  2. Click on Sign Up.
+  3. Enter all the details.
 
     ![Step 1_1](assests/step_1_1.png)​
     
-    4. You are good to go now. Let’s contribute now.
+  4. You are good to go now. Let’s contribute now.
 
 
 * ### Fork the Repository
