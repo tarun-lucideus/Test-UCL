@@ -128,4 +128,48 @@ For pull request in each practice, three reviewers are required. Out of these th
     ![Step 5_10](assests/step_5_10.png)
 
 
+### Making a Pull Request
+1.  Check your git repo is up-to-date with unified control list repo and fetch upstream changes.
+2.  Once confirmed that your git is up-to-date with the main UCL repo click on the ​ **New pull request​** under the ​ **Pull Requests**​ tab.
+
+    ![Step 6_1](assests/step_6_1.png)
+
+3.  Compare the changes across the forks.
+4.  Use the compare branch drop-down menu to choose the topic branch you made your changes in.
+5.  Type a title and description for your pull request.
+6.  Click on ​**Create pull request​**.
+
+    ![Step 6_2](assests/step_6_2.png)
+
+### Pull Request Review
+1.  Request a review in Reviewers option under Pull requests.
+
+    ![Step 7_1](assests/step_7_1.png)
+
+2.  A reviewer can ​ **Comment**​, **Approve**​ or **Request changes**​ on a Pull request.
+
+    ![Step 7_2](assests/step_7_2.png)
+
+3.  A reviewer can also add **​Labels**​ to the Pull requests.
+
+    ![Step 7_3](assests/step_7_3.png)
+
+4.  Resolving all issues then a Pull request can be merged by clicking on the **Merge pull request**.
+
+    ![Step 7_4](assests/step_7_4.png)
+
+
+### Creating an Issue
+1.  Click on ​**Issues**.
+
+    ![Step 8_1](assests/step_8_1.png)
+
+2.  Click on ​**New issue** ​under **Issues** ​tab.
+
+    ![Step 8_2](assests/step_8_2.png)
+
+3.  Add Issue title and description. You can also mention the Pull request number. Click on ​ **Submit new issue** to create an Issue.
+
+    ![Step 8_3](assests/step_8_3.png)
+
 
