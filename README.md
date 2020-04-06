@@ -40,7 +40,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 
 
 ### Fork the Repository
-    A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the UCL​ . ​ Since all the changes made in the forked repository are not synced with the UCL, you will have to make a pull request to UCL in order to get your content approved and merged.
+```A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the UCL​ . ​Since all the changes made in the forked repository are not synced with the UCL, you will have to make a pull request to UCL in order to get your content approved and merged.```
 
 1.  You will receive an email invite to join the organization. Join the organisation.
 
@@ -86,7 +86,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 
 
 ### Syncing Local Fork with Upstream
-    When you create a ​ fork​ of a ​ repository​ you only have the versions of the files that are in the repository at that time. So if there are any changes in the original repository you may find that your version is out of sync.
+```When you create a ​ fork​ of a ​ repository​ you only have the versions of the files that are in the repository at that time. So if there are any changes in the original repository you may find that your version is out of sync.```
 
 ![Step 5_1](assests/step_5_1.png)
 
@@ -129,7 +129,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 
 
 ### Making a Pull Request
-    Analysts must ensure to create separate PRs for every change made in the controls, instead of updating the current PR.
+```Analysts must ensure to create separate PRs for every change made in the controls, instead of updating the current PR.```
 1.  Check your git repo is up-to-date with unified control list repo and fetch upstream changes.
 2.  Once confirmed that your git is up-to-date with the main UCL repo click on the ​ **New pull request​** under the ​ **Pull Requests**​ tab.
 
