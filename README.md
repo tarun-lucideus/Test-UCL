@@ -27,6 +27,14 @@ For pull request in each practice, three reviewers are required. Out of these th
 * **Traffic Analysis/Web** - Deepak Pawar & Rishu Ranjan
 
 ## Detailed Steps
+*   [Create Github Account](#create-github-account)
+*   [Fork the Repository](#fork-the-repository)
+*   [Adding a New Control](#adding-a-new-control)
+*   [Editing Existing Control](#editing-existing-control)
+*   [Syncing Local Fork with Upstream](#syncing-local-fork-with-upstream)
+*   [Making a Pull Request](#making-a-pull-request)
+*   [Pull Request Review](#pull-request-review)
+*   [Creating an Issue](#creating-an-issue)
 
 ### Create Github Account
 ---
@@ -89,6 +97,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 
 
 ### Syncing Local Fork with Upstream
+---
 ``When you create a ​ fork​ of a ​ repository​ you only have the versions of the files that are in the repository at that time. So if there are any changes in the original repository you may find that your version is out of sync.``
 
 <kbd><img src="assests/step_5_1.png" /></kbd>
@@ -132,6 +141,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 
 
 ### Making a Pull Request
+---
 ``Analysts must ensure to create separate PRs for every change made in the controls, instead of updating the current PR.``
 1.  Check your git repo is up-to-date with unified control list repo and fetch upstream changes.
 2.  Once confirmed that your git is up-to-date with the main UCL repo click on the ​ **New pull request​** under the ​ **Pull Requests**​ tab.
@@ -145,7 +155,9 @@ For pull request in each practice, three reviewers are required. Out of these th
 
     <kbd><img src="assests/step_6_2.png" /></kbd>
 
+
 ### Pull Request Review
+---
 1.  Request a review in Reviewers option under Pull requests.
 
     <kbd><img src="assests/step_7_1.png" /></kbd>
@@ -164,6 +176,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 
 
 ### Creating an Issue
+---
 1.  Click on ​**Issues**.
 
     <kbd><img src="assests/step_8_1.png" /></kbd>
