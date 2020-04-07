@@ -29,7 +29,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 ## Detailed Steps
 
 ### Create Github Account
-
+---
 1.  Go to [Github](https://github.com).
 2.  Click on Sign Up.
 3.  Enter all the details.
@@ -40,6 +40,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 
 
 ### Fork the Repository
+---
 ``A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the UCL​. Since all the changes made in the forked repository are not synced with the UCL, you will have to make a pull request to UCL in order to get your content approved and merged.``
 
 1.  You will receive an email invite to join the organization. Join the organisation.
@@ -57,6 +58,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 
 
 ### Adding a New Control
+---
 1.  Click on ​**Create new file**​ .
 
     <kbd><img src="assests/step_3_1.png" /></kbd>
@@ -72,6 +74,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 
 
 ### Editing Existing Control
+---
 1.  Browse through the repository to make changes to the file.
 
      <kbd><img src="assests/step_4_1.png" /></kbd>
@@ -172,5 +175,4 @@ For pull request in each practice, three reviewers are required. Out of these th
 3.  Add Issue title and description. You can also mention the Pull request number. Click on ​ **Submit new issue** to create an Issue.
 
      <kbd><img src="assests/step_8_3.png" /></kbd>
-
 
