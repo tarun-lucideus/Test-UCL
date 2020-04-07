@@ -61,7 +61,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 
     <kbd><img src="assests/step_3_1.png" /></kbd>
 
-2.  Use **/** to create directories and subdirectories and create a **main**(.md) file to add control details. e.g *Vulnerability-Class/Vulnerability-Name/main.md*. You can also create a new file at specific folder inside the path *Vulnerability-Class Vulnerability-Name/* for existing vulnerabilities.
+2.  Use **"/"** to create directories and subdirectories and create a **main**(.md) file to add control details. e.g *Vulnerability-Class/Vulnerability-Name/main.md*. You can also create a new file at specific folder inside the path *Vulnerability-Class Vulnerability-Name/* for existing vulnerabilities.
 
     <kbd><img src="assests/step_3_2.png" /></kbd>
 
