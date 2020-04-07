@@ -82,7 +82,6 @@ For pull request in each practice, three reviewers are required. Out of these th
 
 3.  Commit new changes with title and description.
 
-    ![Step 4_3](assests/step_4_3.png)
     <kbd><img src="assests/step_4_3.png" /></kbd>
 
 
