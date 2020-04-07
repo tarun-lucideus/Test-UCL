@@ -34,7 +34,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 2.  Click on Sign Up.
 3.  Enter all the details.
 
-    ![Step 1_1](assests/step_1_1.png)​
+     <kbd><img src="assests/step_1_1.png)" /></kbd>
     
 4.  You are good to go now. Let’s contribute now.
 
