@@ -44,7 +44,7 @@ For pull request in each practice, three reviewers are required. Out of these th
 
 1.  You will receive an email invite to join the organization. Join the organisation.
 
-    ![Step 2_1](assests/step_2_1.png)​ 
+    <kbd><img src="assests/step_2_1.png" /></kbd>
 
 2.  Go to the organisation’s repository.
 3.  Click on ​**Fork**​ and select your username.
